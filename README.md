@@ -8,7 +8,7 @@
 
 <b>😎 Read below completely before asking for support!</b>
 
-![GitHub All Releases](https://img.shields.io/github/downloads/GalaxzyDev/Deadcord/total?color=black) ![GitHub stars](https://img.shields.io/github/stars/GalaxzyDev/Deadcord?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/GalaxzyDev/Deadcord?style=social)
+![GitHub All Releases](https://img.shields.io/github/downloads/Aholicknight/Deadcord/total?color=black) ![GitHub stars](https://img.shields.io/github/stars/Aholicknight/Deadcord?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/Aholicknight/Deadcord?style=social)
 
 <img src="./assets/banner.png" alt="Banner"/>
 </div>
@@ -22,6 +22,8 @@
 ## I DID NOT MAKE THIS REPO. 
 The original Deadcord repo was removed from github and the account deleted as well. I have found a archive of the repo from April 11th and reuploaded it to github under a new repository.
 Everything is restored, and released will be addded soon.
+
+The Deadcord-Client repository will be restored as well.
 
 
 ## 🚨 Disclaimer
@@ -46,7 +48,7 @@ Download the latest release from our `releases` section. Download the file to a 
 
 2. Download the latest version of Deadcord from our `releases` section.
     
-3. Download & Install our BetterDiscord plugin provided in this repo: https://github.com/GalaxzyDev/Deadcord-Client.
+3. Download & Install our BetterDiscord plugin provided in this repo: https://github.com/Aholicknight/Deadcord-Client.
 
 4. Make sure Deadcord is running in the background.
 
@@ -118,7 +120,7 @@ A: Yes, there are some alternatives to Deadcord, such as MassDmGo.
 
 ## 🔥 Roadmap
 
-See the [open issues](https://github.com/GalaxzyDev/Deadcord/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Aholicknight/Deadcord/issues) for a list of proposed features (and known issues).
 
 ## 📜 License
 
