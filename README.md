@@ -4,7 +4,7 @@
   <img src="./assets/logo.png" alt="Logo" width="105" height="95">
 </a>
 
-# 💀 Deadcord v1.4
+# 💀 Deadcord v1.4.1
 
 <b>😎 Read below completely before asking for support!</b>
 
