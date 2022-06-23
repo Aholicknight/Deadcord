@@ -19,11 +19,11 @@
   🤔 Are you a part of the Discord staff team? Glad to see you.
 </div>
 
-## I DID NOT MAKE THIS REPO. 
+## I DID NOT CREATE DEADCORD 
 The original Deadcord repo was removed from github and the account deleted as well. I have found a archive of the repo from April 11th and reuploaded it to github under a new repository.
-Everything is restored, and released will be addded soon.
+Everything is restored, ~~and released will be addded soon.~~
 
-The Deadcord-Client repository will be restored as well.
+v1.4.1 release can be downloaded [here](https://github.com/Aholicknight/Deadcord/releases/tag/v.1.4.1)
 
 
 ## 🚨 Disclaimer
