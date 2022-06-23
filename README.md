@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/GalaxzyDev">
+<a href="https://github.com/Aholicknight/Deadcord">
   <img src="./assets/logo.png" alt="Logo" width="105" height="95">
 </a>
 
@@ -10,8 +10,6 @@
 
 ![GitHub All Releases](https://img.shields.io/github/downloads/GalaxzyDev/Deadcord/total?color=black) ![GitHub stars](https://img.shields.io/github/stars/GalaxzyDev/Deadcord?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/GalaxzyDev/Deadcord?style=social)
 
-<a href="https://discord.gg/qZ8ATyh57a"><img src="https://discordapp.com/api/guilds/942812576188874835/widget.png?style=banner2"></a>
-
 <img src="./assets/banner.png" alt="Banner"/>
 </div>
 
@@ -20,6 +18,11 @@
 <div align="center">
   🤔 Are you a part of the Discord staff team? Glad to see you.
 </div>
+
+## I DID NOT MAKE THIS REPO. 
+The original Deadcord repo was removed from github and the account deleted as well. I have found a archive of the repo from April 11th and reuploaded it to github under a new repository.
+Everything is restored, and released will be addded soon.
+
 
 ## 🚨 Disclaimer
 I do not endorse nor condone raids. Any actions carried out by our tool are at your own risk. We are responsible for creating our tool, but not for how it is used.
