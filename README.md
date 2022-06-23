@@ -35,7 +35,6 @@ To protect our work, and to prevent it from being re-distributed, we have not pr
 
 - Using anything above 350 tokens with Deadcord is risky, and may cause your tokens to become locked. (Dont know why you would need this much anyway, seems like overkill).
 - I am not responisble for anything you do with this tool. (Got to put that in there).
-- I know there is going to be that one person that forks this repo and rebrands Deadcord into "their own program". Alright, follow the license. If not, I can always submit a DMCA take down request. Had it done before. Just follow the license and have some respect for my time.
 
 ## 🧰 Basic Usage
 
