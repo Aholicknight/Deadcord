@@ -16,6 +16,12 @@
 ---
 
 <div align="center">
+  <b>THIS REPO IS NOW SET AS READ ONLY. DUE TO THE ORIGINAL REPO BEING REMOVED THERE WON'T BE ANY MORE CHANGES TO THIS REPO. YOU ARE ALLOWED TO FORK THIS REPO AND MAKE UPDATES IF IT BREAKS IN THE FUTURE.</b>
+</div>
+
+---
+
+<div align="center">
   🤔 Are you a part of the Discord staff team? Glad to see you.
 </div>
 
